@@ -3,7 +3,7 @@
 
 ### Environment
 * CLI Editors: Emacs, Vim
-* OS: Ubuntu 14.04 LTS
+* OS: Ubuntu 20.04.4 LTS
 
 ---
 ### Authors
